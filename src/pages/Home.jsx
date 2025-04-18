@@ -36,7 +36,7 @@ export default function Home() {
             className="bg-gray-800 hover:bg-gray-700 transition rounded-xl p-6 flex items-center gap-4"
           >
             <img
-  src="../public/logo-britopizza.png"
+  src="/logo-britopizza.png"
   alt="BritoPizz"
   className="w-20 h-20 rounded-full shadow-md object-cover"
 />
